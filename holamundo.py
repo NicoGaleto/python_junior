@@ -35,3 +35,5 @@ print(f"hola, tengo {age} años y en unos dias cumplo {age + 1} años!")
 
 country, city = input("en que pais y ciudad vives?\n").split()
 print(f"vivo en {city}, {country} hace 8 años")
+
+
